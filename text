@@ -1,3 +1,4 @@
 bye
 hallo
 ich bin sehr kaputt
+console.log("Hallo Welt");
